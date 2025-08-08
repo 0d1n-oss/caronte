@@ -48,4 +48,4 @@
     grep -E '\sA\s' dns_honeypot.log | batcat
 ![](images/info.png)
 ### Creditos
-Copyright © 2021 by [Termux Hackers ID](https://github.com/termuxhackers-id)
+Copyright © 2025 by [0d1n-oss](https://github.com/0d1n-oss)
